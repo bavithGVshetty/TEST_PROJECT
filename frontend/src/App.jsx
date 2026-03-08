@@ -9,7 +9,7 @@ function App() {
   const [message,setMessage] = useState("");
 
   // const API = "https://your-render-backend-url/api/auth";
-const API = "http://localhost:5000/api/auth";
+const API = "https://jwt-backend.onrender.com/api/auth";
   // REGISTER
   const registerUser = async () => {
 
