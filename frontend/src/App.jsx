@@ -63,7 +63,7 @@ const API = "https://test-project-6dbj.onrender.com/api/auth/";
 
     <div className="container">
 
-      <h1>JWT Authentication</h1>
+      <h1>JWT Authentication new</h1>
 
       <input
         type="email"
