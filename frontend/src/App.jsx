@@ -10,7 +10,7 @@ function App() {
 
   // const API = "https://your-render-backend-url/api/auth";
   
-const API = "https://test-project-6dbj.onrender.com/api/auth/";
+const API = "https://test-project-6dbj.onrender.com/api/auth";
   // REGISTER
   const registerUser = async () => {
 
